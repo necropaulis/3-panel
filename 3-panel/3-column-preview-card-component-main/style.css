@@ -1,0 +1,58 @@
+.main{
+    font-family: Lexend Deca;
+    font-size:15px;
+    font-weight:400;
+    color: hsla(0, 0%, 100%, 0.75);
+    height:420px;
+    width:750px;
+    margin:auto;
+    margin-top:250px;
+    margin-bottom:250px;
+    display:flex;    
+    border-radius: 10px; 
+    overflow: hidden;
+    
+  }
+  
+  .title, button{
+    color: hsl(0, 0%, 95%);
+  }
+  
+  .orange, .blue ,.green{
+    padding:35px;
+  }
+  
+  .title{
+    font-family: Big Shoulders Display;
+    font-weight: 700;
+    font-size: 30px;
+  }
+  
+  .orange{
+    background-color:hsl(31, 77%, 52%);
+  
+  }
+  
+  .blue{
+    background-color:hsl(184, 100%, 22%);
+  }
+  
+  .green{
+    background-color: hsl(179, 100%, 13%);
+  }
+  
+  button{
+    
+    text-decoration: none;
+    background-color:inherit;
+    border-color:hsl(0, 0%, 95%);
+    margin-top:45px;
+    padding:15px;
+    width:125px;
+    border-radius:25px;
+  }  
+  
+  a{
+    color:hsl(0, 0%, 95%);
+    text-decoration: none;
+  }
